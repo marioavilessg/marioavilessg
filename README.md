@@ -14,7 +14,8 @@ Soy un desarrollador enfocado en backend con especial interés en Inteligencia A
 ## 🌍 Información
 - 📍 Ubicación: Cartagena, Murcia, España  
 - 🎓 Formación: Desarrollo de Aplicaciones Web (DAW) + Especialización en IA y Big Data  
-- 💼 Enfoque actual: Desarrollo backend con .NET y exploración de sistemas basados en IA  
+- 💼 Enfoque actual: Desarrollo backend con .NET y exploración de sistemas basados en IA
+- 🖥️ Página Web: [Portfolio](https://portfolio-marioavilessg.vercel.app/) 
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/marioavilesgarcia) | marioavilessg@gmail.com
 
 ---
