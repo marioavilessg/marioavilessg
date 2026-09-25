@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%"/>
+  <img src="Banner_Laboral.png" width="100%"/>
 </p>
 
 ## 👋 ¡Hola! Soy Mario Avilés García
